@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "u5PrintingEthanR", "u5PrintingEthanR\u5PrintingEthanR.csproj", "{870694F3-C552-47C1-9EC7-9A146C8A2F35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870694F3-C552-47C1-9EC7-9A146C8A2F35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870694F3-C552-47C1-9EC7-9A146C8A2F35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870694F3-C552-47C1-9EC7-9A146C8A2F35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870694F3-C552-47C1-9EC7-9A146C8A2F35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B93E9C9-AC7A-4F1B-9B40-C9AB9E7C5FEF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\bin\Debug\u5GameofLife.exe.config
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\bin\Debug\u5GameofLife.exe
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\bin\Debug\u5GameofLife.pdb
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\u5GameofLife.csprojResolveAssemblyReference.cache
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\MainWindow.g.cs
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\App.g.cs
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\u5GameofLife_MarkupCompile.cache
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\u5GameofLife_MarkupCompile.lref
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\MainWindow.baml
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\u5GameofLife.g.resources
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\u5GameofLife.Properties.Resources.resources
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\u5GameofLife.csproj.GenerateResource.Cache
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\u5GameofLife.csproj.CoreCompileInputs.cache
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\u5GameofLife.exe
+E:\ICS4U\Unit 5\u5GameofLife\u5GameofLife\obj\Debug\u5GameofLife.pdb
