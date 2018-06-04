@@ -1,0 +1,15 @@
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\bin\Debug\u5MathTutorEthanR.exe.config
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\bin\Debug\u5MathTutorEthanR.exe
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\bin\Debug\u5MathTutorEthanR.pdb
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\u5MathTutorEthanR.csprojResolveAssemblyReference.cache
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\MainWindow.g.cs
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\App.g.cs
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\u5MathTutorEthanR_MarkupCompile.cache
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\u5MathTutorEthanR_MarkupCompile.lref
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\MainWindow.baml
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\u5MathTutorEthanR.g.resources
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\u5MathTutorEthanR.Properties.Resources.resources
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\u5MathTutorEthanR.csproj.GenerateResource.Cache
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\u5MathTutorEthanR.csproj.CoreCompileInputs.cache
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\u5MathTutorEthanR.exe
+E:\ICS4U\Unit 5\u5MathTutorEthanR\u5MathTutorEthanR\obj\Debug\u5MathTutorEthanR.pdb

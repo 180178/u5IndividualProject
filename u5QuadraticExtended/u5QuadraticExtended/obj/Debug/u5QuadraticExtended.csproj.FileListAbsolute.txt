@@ -1,0 +1,15 @@
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\bin\Debug\u5QuadraticExtended.exe.config
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\bin\Debug\u5QuadraticExtended.exe
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\bin\Debug\u5QuadraticExtended.pdb
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\MainWindow.g.cs
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\App.g.cs
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\u5QuadraticExtended_MarkupCompile.cache
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\u5QuadraticExtended_MarkupCompile.lref
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\MainWindow.baml
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\u5QuadraticExtended.g.resources
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\u5QuadraticExtended.Properties.Resources.resources
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\u5QuadraticExtended.csproj.GenerateResource.Cache
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\u5QuadraticExtended.csproj.CoreCompileInputs.cache
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\u5QuadraticExtended.exe
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\u5QuadraticExtended.pdb
+E:\ICS4U\Unit 5\u5QuadraticExtended\u5QuadraticExtended\obj\Debug\u5QuadraticExtended.csprojResolveAssemblyReference.cache
